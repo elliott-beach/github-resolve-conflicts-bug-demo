@@ -4,7 +4,7 @@ The issue occurs when merging into a non-master branch from the master branch of
 The result is that a merge commit is created, but conflicts still exist fo the pull-request.
 
 ## Steps:
-1. Create a new repository, adding a dummy file `foo`.
+1. Create a new repository on GitHub, adding a dummy file `foo`.
 2. Check-out a new branch `updated-upstream`.
 3. Commit and push an edit on `foo` to `origin/updated-upstream`.
 
