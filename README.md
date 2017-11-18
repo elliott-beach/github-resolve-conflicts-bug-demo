@@ -1,5 +1,3 @@
-# github-resolve-conflicts-bug-demo
-
 This repo reproduces a problem with GitHub's "resolve conflicts" feature where the conflict may not actually
 be resolved when merging into a non-master branch from the master branch of a fork.
 
