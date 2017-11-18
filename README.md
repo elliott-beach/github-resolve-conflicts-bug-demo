@@ -1,5 +1,6 @@
 This repo reproduces a problem with GitHub's "resolve conflicts" feature.
 The issue occurs when merging into a non-master branch from the master branch of a fork.
+
 The result is that a merge commit is created, but conflicts still exist.
 
 ## Steps:
